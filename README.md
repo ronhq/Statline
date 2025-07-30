@@ -1,27 +1,18 @@
-﻿## 🔍 Project Focus
+🔍 Project Focus
+Statline analyzes advanced NBA metrics for the 2024–25 season to evaluate player performance, impact, and efficiency. Key metrics include:
 
-Statline is a personal project that explores key advanced NBA metrics for the 2024–2025 season. Due to current dataset limitations, the project will focus on the following available stats:
+PER – Per-minute production vs. league average.
 
-PER (Player Efficiency Rating) – Measures a player’s per-minute production relative to league average (15.0).
+TS% – Shooting efficiency factoring FG, 3P, and FT.
 
-TS% (True Shooting Percentage) – Shooting efficiency metric accounting for field goals, 3-pointers, and free throws.
+USG% – Share of team plays used while on court.
 
-USG% (Usage Rate) – Percentage of team plays a player uses while on the floor.
+BPM / OBPM / DBPM – Overall, offensive, and defensive impact per 100 possessions.
 
-BPM (Box Plus/Minus) – Estimates on-court contribution per 100 possessions.
+WS / WS/48 – Wins contributed (total and per 48 minutes).
 
-OBPM – Offensive impact.
+OWS / DWS – Offensive and defensive win shares.
 
-DBPM – Defensive impact.
+VORP – Value over a replacement-level player.
 
-
-WS (Win Shares) – Estimates wins contributed by a player.
-
-WS/48 – Win Shares per 48 minutes, normalized for playing time.
-
-
-VORP (Value Over Replacement Player) – Measures total value compared to a replacement-level player.
-
-OWS/DWS (Offensive & Defensive Win Shares) – Splits total win contribution into offensive and defensive components.
-
-These metrics are used to evaluate overall player performance, impact, and efficiency throughout the season.
+These metrics form the basis for assessing all-around performance and player value throughout the season.
