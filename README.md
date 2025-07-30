@@ -1,4 +1,3 @@
-🔍 Project Focus
 Statline analyzes advanced NBA metrics for the 2024–25 season to evaluate player performance, impact, and efficiency. Key metrics include:
 
 PER – Per-minute production vs. league average.
