@@ -1,17 +1,17 @@
-Statline evaluates player performance, impact, and efficiency during the 2024–25 NBA season using advanced basketball metrics:
+Statline analyzes player performance, impact, and efficiency in the 2024–25 NBA season through advanced basketball metrics:
 
-PER – Player Efficiency Rating; measures a player’s per-minute productivity relative to the league average.
+PER – Player Efficiency Rating: Measures per-minute productivity relative to the league average.
 
-TS% – True Shooting Percentage; captures shooting efficiency by factoring in field goals, three-pointers, and free throws.
+TS% – True Shooting Percentage: Evaluates scoring efficiency by incorporating field goals, three-pointers, and free throws.
 
-USG% – Usage Rate; the percentage of team possessions a player uses while on the floor.
+USG% – Usage Rate: Indicates the share of team possessions a player uses while on the court.
 
-BPM / OBPM / DBPM – Box Plus/Minus; estimates a player’s overall, offensive, and defensive impact per 100 possessions.
+BPM / OBPM / DBPM – Box Plus/Minus: Estimates a player’s overall, offensive, and defensive impact per 100 possessions.
 
-WS / WS/48 – Win Shares; estimates a player’s total wins contributed, both overall and per 48 minutes.
+WS / WS/48 – Win Shares: Quantifies total wins contributed, both in total and per 48 minutes.
 
-OWS / DWS – Offensive and Defensive Win Shares; the offensive and defensive components of total win shares.
+OWS / DWS – Offensive/Defensive Win Shares: Breaks down win contributions into offensive and defensive components.
 
-VORP – Value Over Replacement Player; measures a player’s overall value compared to a replacement-level player.
+VORP – Value Over Replacement Player: Measures a player’s overall value relative to a replacement-level player.
 
-Together, these metrics provide a comprehensive framework for assessing all-around performance, offensive and defensive contributions, and overall player value throughout the season.
+By combining these metrics, Statline delivers a comprehensive view of player performance, capturing offensive and defensive contributions, efficiency, and overall value across the season.
