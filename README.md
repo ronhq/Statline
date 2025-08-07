@@ -1,17 +1,24 @@
-Statline analyzes player performance, impact, and efficiency in the 2024–25 NBA season through advanced basketball metrics:
+📊 Statline – Advanced NBA Player Analysis (2024–25)
 
-PER – Player Efficiency Rating: Measures per-minute productivity relative to the league average.
+Statline evaluates player performance, impact, and efficiency during the 2024–25 NBA season using advanced basketball metrics. This project provides a comprehensive view of each player's contributions on both ends of the floor.
 
-TS% – True Shooting Percentage: Evaluates scoring efficiency by incorporating field goals, three-pointers, and free throws.
+🔍 Key Metrics:
 
-USG% – Usage Rate: Indicates the share of team possessions a player uses while on the court.
+PER (Player Efficiency Rating): Assesses per-minute productivity compared to the league average.
 
-BPM / OBPM / DBPM – Box Plus/Minus: Estimates a player’s overall, offensive, and defensive impact per 100 possessions.
+TS% (True Shooting Percentage): Measures scoring efficiency by factoring in field goals, three-pointers, and free throws.
 
-WS / WS/48 – Win Shares: Quantifies total wins contributed, both in total and per 48 minutes.
+USG% (Usage Rate): Reflects the percentage of team possessions a player uses while on the court.
 
-OWS / DWS – Offensive/Defensive Win Shares: Breaks down win contributions into offensive and defensive components.
+BPM / OBPM / DBPM (Box Plus/Minus): Estimates a player’s total, offensive, and defensive impact per 100 possessions.
 
-VORP – Value Over Replacement Player: Measures a player’s overall value relative to a replacement-level player.
+WS / WS/48 (Win Shares): Quantifies the number of wins a player contributes, both in total and normalized per 48 minutes.
 
-By combining these metrics, Statline delivers a comprehensive view of player performance, capturing offensive and defensive contributions, efficiency, and overall value across the season.
+OWS / DWS (Offensive & Defensive Win Shares): Breaks down win contributions into offensive and defensive components.
+
+VORP (Value Over Replacement Player): Measures a player’s value relative to a replacement-level player.
+
+
+🎯 Objective:
+
+By integrating these metrics, Statline offers an all-encompassing perspective on player value, balancing efficiency, usage, and two-way impact throughout the NBA season.
