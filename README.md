@@ -1,20 +1,23 @@
-📊 Statline – Advanced NBA Player Analysis (2024–25)
-Statline analyzes player performance in the 2024–25 NBA season using advanced metrics, offering a clear picture of efficiency, usage, and two-way impact.
+Statline – Advanced NBA Player Analysis (2024–25)
 
-🔍 Key Metrics
-PER (Player Efficiency Rating) – Per-minute productivity vs. league average.
+Statline analyzes player performance in the 2024–25 NBA season using advanced metrics, providing a clear view of efficiency, usage, and two-way impact.
 
-TS% (True Shooting Percentage) – Shooting efficiency including field goals, three-pointers, and free throws.
+Key Metrics
 
-USG% (Usage Rate) – Share of team possessions a player uses on the court.
+PER (Player Efficiency Rating): Measures per-minute productivity relative to the league average.
 
-BPM / OBPM / DBPM (Box Plus/Minus) – Overall, offensive, and defensive impact per 100 possessions.
+TS% (True Shooting Percentage): Evaluates shooting efficiency by incorporating field goals, three-pointers, and free throws.
 
-WS / WS/48 (Win Shares) – Wins contributed, both total and per 48 minutes.
+USG% (Usage Rate): Indicates the share of team possessions a player uses while on the court.
 
-OWS / DWS (Offensive & Defensive Win Shares) – Offensive and defensive breakdown of win shares.
+BPM / OBPM / DBPM (Box Plus/Minus): Estimates overall, offensive, and defensive impact per 100 possessions.
 
-VORP (Value Over Replacement Player) – Overall value compared to a replacement-level player.
+WS / WS/48 (Win Shares): Quantifies wins contributed, both total and per 48 minutes.
 
-🎯 Objective
-Provide a comprehensive, data-driven evaluation of NBA players, highlighting contributions on both offense and defense while balancing efficiency, usage, and impact.
+OWS / DWS (Offensive & Defensive Win Shares): Breaks down win shares into offensive and defensive components.
+
+VORP (Value Over Replacement Player): Measures a player's value relative to a replacement-level player.
+
+Objective
+
+To provide a comprehensive, data-driven evaluation of NBA players, highlighting contributions on both offense and defense while balancing efficiency, usage, and impact.
