@@ -1,6 +1,7 @@
 # Statline – Advanced NBA Player Analysis (2024–25)
 
-**Statline** evaluates player performance during the 2024–25 NBA season using advanced metrics, offering a clear perspective on efficiency, usage, and two-way impact.
+**Statline** evaluates player performance during the 2024–25 NBA season using advanced metrics, offering a clear perspective on efficiency, usage, and two-way impact.  
+It is designed as both an analytics resource and a practical project for applying data science techniques in sports.
 
 ## Key Metrics
 - **PER (Player Efficiency Rating):** Per-minute productivity relative to league average.  
@@ -13,4 +14,4 @@
 
 ## Objective
 To provide a comprehensive, data-driven evaluation of NBA players, balancing efficiency, usage, and overall impact on both ends of the court.  
-This project also serves as a platform for practicing data analysis, visualization, and reporting in a real-world basketball context.
+This project also serves as a platform for practicing **data analysis, visualization, and reporting** in a real-world basketball context.
