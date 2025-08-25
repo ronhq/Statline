@@ -15,3 +15,5 @@ It is designed as both an analytics resource and a practical project for applyin
 ## Objective
 To provide a comprehensive, data-driven evaluation of NBA players, balancing efficiency, usage, and overall impact on both ends of the court.  
 This project also serves as a platform for practicing **data analysis, visualization, and reporting** in a real-world basketball context.
+
+## Repository Structure
