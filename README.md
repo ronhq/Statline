@@ -16,5 +16,3 @@ The project highlights **efficiency, usage, and two-way impact**, while serving 
 - Deliver a **comprehensive evaluation** of NBA players using advanced metrics.  
 - Go beyond traditional box score stats by balancing **efficiency, usage, and impact**.  
 - Build reproducible workflows for **data cleaning, visualization, and statistical analysis**.  
-
-## 📂 Repository Layout
